@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b199ca33.css",
+    "main.js": "/static/js/main.36c969f4.js",
+    "static/media/robot.gif": "/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/Loader_.gif": "/static/media/Loader_.d0c1692cd7dd38f5e503.gif",
+    "static/media/sengage-logo_.png": "/static/media/sengage-logo_.a3944cc44fbb033774e2.png",
+    "index.html": "/index.html",
+    "main.b199ca33.css.map": "/static/css/main.b199ca33.css.map",
+    "main.36c969f4.js.map": "/static/js/main.36c969f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b199ca33.css",
+    "static/js/main.36c969f4.js"
+  ]
+}
